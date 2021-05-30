@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.House Model.iml
+# Datasource local storage ignored files
+/../../../../../../../../:\Unity\Projects\House Model\House Model\.idea\.idea.House Model\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
