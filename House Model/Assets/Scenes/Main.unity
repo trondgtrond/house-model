@@ -820,6 +820,63 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 1504186170758411011, guid: 74ba0016452d2cb46939a40f080dffbc, type: 3}
   m_PrefabInstance: {fileID: 354621398}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &513839985
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 7687493454547883272, guid: e12b3e327afa8134fafd68b6131bdf9c, type: 3}
+      propertyPath: m_Name
+      value: LG OLED65CX (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8907898949631309222, guid: e12b3e327afa8134fafd68b6131bdf9c, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8907898949631309222, guid: e12b3e327afa8134fafd68b6131bdf9c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3.023961
+      objectReference: {fileID: 0}
+    - target: {fileID: 8907898949631309222, guid: e12b3e327afa8134fafd68b6131bdf9c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.170543
+      objectReference: {fileID: 0}
+    - target: {fileID: 8907898949631309222, guid: e12b3e327afa8134fafd68b6131bdf9c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.773
+      objectReference: {fileID: 0}
+    - target: {fileID: 8907898949631309222, guid: e12b3e327afa8134fafd68b6131bdf9c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8907898949631309222, guid: e12b3e327afa8134fafd68b6131bdf9c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8907898949631309222, guid: e12b3e327afa8134fafd68b6131bdf9c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8907898949631309222, guid: e12b3e327afa8134fafd68b6131bdf9c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8907898949631309222, guid: e12b3e327afa8134fafd68b6131bdf9c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8907898949631309222, guid: e12b3e327afa8134fafd68b6131bdf9c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8907898949631309222, guid: e12b3e327afa8134fafd68b6131bdf9c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e12b3e327afa8134fafd68b6131bdf9c, type: 3}
 --- !u!1001 &518645059
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2305,6 +2362,67 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 1504186170758411011, guid: 74ba0016452d2cb46939a40f080dffbc, type: 3}
   m_PrefabInstance: {fileID: 1440570326}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1447784935
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 277236858167748491, guid: e12b3e327afa8134fafd68b6131bdf9c, type: 3}
+      propertyPath: m_Name
+      value: LG OLED65CX
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237322910249180304, guid: e12b3e327afa8134fafd68b6131bdf9c, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237322910249180304, guid: e12b3e327afa8134fafd68b6131bdf9c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3.0101762
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237322910249180304, guid: e12b3e327afa8134fafd68b6131bdf9c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.1566064
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237322910249180304, guid: e12b3e327afa8134fafd68b6131bdf9c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.96450025
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237322910249180304, guid: e12b3e327afa8134fafd68b6131bdf9c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237322910249180304, guid: e12b3e327afa8134fafd68b6131bdf9c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237322910249180304, guid: e12b3e327afa8134fafd68b6131bdf9c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237322910249180304, guid: e12b3e327afa8134fafd68b6131bdf9c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237322910249180304, guid: e12b3e327afa8134fafd68b6131bdf9c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237322910249180304, guid: e12b3e327afa8134fafd68b6131bdf9c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4237322910249180304, guid: e12b3e327afa8134fafd68b6131bdf9c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8907898949631309222, guid: e12b3e327afa8134fafd68b6131bdf9c, type: 3}
+      propertyPath: m_RootOrder
+      value: 8
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e12b3e327afa8134fafd68b6131bdf9c, type: 3}
 --- !u!1001 &1484780784
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3318,7 +3436,7 @@ Transform:
   - {fileID: 1418921019}
   - {fileID: 1263791870}
   m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1858932443
 PrefabInstance:
