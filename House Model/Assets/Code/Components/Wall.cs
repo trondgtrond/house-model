@@ -40,8 +40,7 @@ public class Wall : MonoBehaviour
 		if (transform.localScale != size)
 		{
 			transform.localScale = size;
-			transform.localPosition = new Vector3(transform.localPosition.x, transform.localScale.y / 2,
-				transform.localPosition.z);
+			//transform.localPosition = new Vector3(transform.localPosition.x, transform.localScale.y / 2, transform.localPosition.z);
 		}
 	}
 }
