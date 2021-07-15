@@ -15,11 +15,11 @@ C:/Users/trond_e1sis33/OneDrive/Dokumenter/House Model/House Model
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-50160
+59606
 Successfully changed project path to: C:/Users/trond_e1sis33/OneDrive/Dokumenter/House Model/House Model
 C:/Users/trond_e1sis33/OneDrive/Dokumenter/House Model/House Model
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 89.95 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 116.74 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.9f1 (108be757e447)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.9f1/Editor/Data/Resources/UnitySubsystems
@@ -35,310 +35,83 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.9f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.9f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.9f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56916
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56848
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.9f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.003022 seconds.
+Registered in 0.002009 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 91.35 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 79.01 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.165 seconds
+- Completed reload, in  1.054 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.001689 seconds.
+Registered in 0.001480 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 97.98 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 87.56 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.758 seconds
+- Completed reload, in  1.557 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
-Refreshing native plugins compatible for Editor in 1.19 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.74 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 4294 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 206.2 MB.
-System memory in use after: 206.4 MB.
+System memory in use before: 206.6 MB.
+System memory in use after: 206.7 MB.
 
 Unloading 146 unused Assets to reduce memory usage. Loaded Objects now: 4733.
-Total: 4.846600 ms (FindLiveObjects: 0.448300 ms CreateObjectMapping: 0.277500 ms MarkObjects: 3.788900 ms  DeleteObjects: 0.330600 ms)
+Total: 3.013900 ms (FindLiveObjects: 0.324900 ms CreateObjectMapping: 0.191200 ms MarkObjects: 2.282000 ms  DeleteObjects: 0.214800 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/AssetPackages
-  artifactKey: Guid(470c76cdccd388049af14bd73e319cd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AssetPackages using Guid(470c76cdccd388049af14bd73e319cd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f105d8bea53786fa686ecb594a92b3bf') in 0.012508 seconds
-  Import took 0.022701 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 838.485408 seconds.
-  path: Assets/Prefabs/Furnature/Rooms/Evelinn
-  artifactKey: Guid(cab97caeeb7d3224bbe65f2f9b016fc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Furnature/Rooms/Evelinn using Guid(cab97caeeb7d3224bbe65f2f9b016fc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '323f12d7c3afc82013a4a1118432746d') in 0.011141 seconds
-  Import took 0.023655 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.041062 seconds.
-  path: Assets/Prefabs/Furnature/Rooms/Evelinn
-  artifactKey: Guid(cab97caeeb7d3224bbe65f2f9b016fc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Furnature/Rooms/Evelinn using Guid(cab97caeeb7d3224bbe65f2f9b016fc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '323f12d7c3afc82013a4a1118432746d') in 0.002738 seconds
-  Import took 0.010625 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 11.536873 seconds.
-  path: Assets/Prefabs/Furnature/Rooms/Evelinn/Rocking Chair.prefab
-  artifactKey: Guid(eacaa04601b9b224ba1c8765c7f89a81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Furnature/Rooms/Evelinn/Rocking Chair.prefab using Guid(eacaa04601b9b224ba1c8765c7f89a81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8631ec7b79220d10b58699a357fd4a59') in 0.115427 seconds
-  Import took 0.123155 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 227.986930 seconds.
-  path: Assets/Prefabs/Furnature/Rooms/Evelinn/Plate Holder.prefab
-  artifactKey: Guid(850e10ffe4921df47a2a4ec0ef4d464a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Furnature/Rooms/Evelinn/Plate Holder.prefab using Guid(850e10ffe4921df47a2a4ec0ef4d464a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd348b8f7a504b5e24f6796164d2d41b8') in 0.012193 seconds
-  Import took 0.021652 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 182.660692 seconds.
-  path: Assets/Prefabs/Furnature/Rooms/Evelinn/Quad.prefab
-  artifactKey: Guid(26434ae6bd3bdf649a91ed163b51a2a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Furnature/Rooms/Evelinn/Quad.prefab using Guid(26434ae6bd3bdf649a91ed163b51a2a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.09 seconds
- -> (artifact id: 'f4d88b5bd468fc25a283180610859909') in 4.921501 seconds
-  Import took 4.935975 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 6.356301 seconds.
-  path: Assets/Prefabs/Furnature/Rooms/Evelinn/Tapestry.prefab
-  artifactKey: Guid(26434ae6bd3bdf649a91ed163b51a2a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Furnature/Rooms/Evelinn/Tapestry.prefab using Guid(26434ae6bd3bdf649a91ed163b51a2a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73127c0a6c554fa1463d6a9a5c7db0d1') in 0.049274 seconds
-  Import took 0.056311 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 228.557491 seconds.
-  path: Assets/Prefabs/Furnature/Rooms/Evelinn/Screenshot 2021-07-15 203827.png
-  artifactKey: Guid(f8b0454ac9fc0464492397cb21bc118c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Furnature/Rooms/Evelinn/Screenshot 2021-07-15 203827.png using Guid(f8b0454ac9fc0464492397cb21bc118c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea2111b952700a0f61b1d06ce74ffe56') in 0.052447 seconds
-  Import took 0.059768 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.020554 seconds.
-  path: Assets/Prefabs/Furnature/Rooms/Evelinn/Screenshot 2021-07-15 203827.png
-  artifactKey: Guid(f8b0454ac9fc0464492397cb21bc118c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Furnature/Rooms/Evelinn/Screenshot 2021-07-15 203827.png using Guid(f8b0454ac9fc0464492397cb21bc118c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea2111b952700a0f61b1d06ce74ffe56') in 0.016125 seconds
-  Import took 0.022268 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 13.195151 seconds.
-  path: Assets/Prefabs/Furnature/Rooms/Evelinn/World Map.png
-  artifactKey: Guid(f8b0454ac9fc0464492397cb21bc118c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Furnature/Rooms/Evelinn/World Map.png using Guid(f8b0454ac9fc0464492397cb21bc118c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c308bb6c63f2051f027a926986299a2') in 0.011993 seconds
-  Import took 0.018625 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 322.970100 seconds.
-  path: Assets/Prefabs/Furnature/Rooms/Evelinn/Light chain.prefab
-  artifactKey: Guid(aecc18568e0522241bde0812acebb8ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Furnature/Rooms/Evelinn/Light chain.prefab using Guid(aecc18568e0522241bde0812acebb8ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '259fad5d9f6ee8520beaee8d92003926') in 0.010745 seconds
-  Import took 0.020408 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 626.754587 seconds.
-  path: Assets/Prefabs/Furnature/Rooms/Evelinn/Light chain.prefab
-  artifactKey: Guid(aecc18568e0522241bde0812acebb8ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Furnature/Rooms/Evelinn/Light chain.prefab using Guid(aecc18568e0522241bde0812acebb8ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3382830fe8c7b1010ea7ca4491a2494') in 0.054722 seconds
-  Import took 0.065637 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 903.487137 seconds.
-  path: Assets/Prefabs/Furnature/Rooms/Office
-  artifactKey: Guid(94bdfdf1d6fa2b34da5fcef5287f938b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Furnature/Rooms/Office using Guid(94bdfdf1d6fa2b34da5fcef5287f938b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51bab87fd145109482daa1bf681af995') in 0.009278 seconds
-  Import took 0.017374 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.032690 seconds.
-  path: Assets/Prefabs/Furnature/Rooms/Office
-  artifactKey: Guid(94bdfdf1d6fa2b34da5fcef5287f938b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Furnature/Rooms/Office using Guid(94bdfdf1d6fa2b34da5fcef5287f938b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51bab87fd145109482daa1bf681af995') in 0.002530 seconds
-  Import took 0.009652 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 9.134733 seconds.
-  path: Assets/Prefabs/Furnature/Rooms/Office/Large Shelf.prefab
-  artifactKey: Guid(43a378d831801b34c81b850423fffed5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Furnature/Rooms/Office/Large Shelf.prefab using Guid(43a378d831801b34c81b850423fffed5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ca313f8e2cd56c9a638efe43c103136') in 0.011621 seconds
-  Import took 0.019958 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.047615 seconds.
-  path: Assets/Prefabs/Furnature/Rooms/Office/Large Shelf.prefab
-  artifactKey: Guid(43a378d831801b34c81b850423fffed5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Furnature/Rooms/Office/Large Shelf.prefab using Guid(43a378d831801b34c81b850423fffed5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ca313f8e2cd56c9a638efe43c103136') in 0.003961 seconds
-  Import took 0.011440 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 249.140450 seconds.
-  path: Assets/Prefabs/Furnature/Rooms/LivingRoom
-  artifactKey: Guid(f968280c244fd6b4d9f732c97c79e2c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Furnature/Rooms/LivingRoom using Guid(f968280c244fd6b4d9f732c97c79e2c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bc4b0167f8d550683159eaf58bf7df5') in 0.009390 seconds
-  Import took 0.019130 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.044120 seconds.
-  path: Assets/Prefabs/Furnature/Rooms/LivingRoom
-  artifactKey: Guid(f968280c244fd6b4d9f732c97c79e2c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Furnature/Rooms/LivingRoom using Guid(f968280c244fd6b4d9f732c97c79e2c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bc4b0167f8d550683159eaf58bf7df5') in 0.002840 seconds
-  Import took 0.011750 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 11.935786 seconds.
-  path: Assets/Prefabs/Furnature/Rooms/LivingRoom/Small Shelves.prefab
-  artifactKey: Guid(43b4215006178ce41b3f0d045a9965c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Furnature/Rooms/LivingRoom/Small Shelves.prefab using Guid(43b4215006178ce41b3f0d045a9965c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a31f9213bea092ddef6792d51f87106') in 0.010613 seconds
-  Import took 0.018467 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.054627 seconds.
-  path: Assets/Prefabs/Furnature/Rooms/LivingRoom/Small Shelves.prefab
-  artifactKey: Guid(43b4215006178ce41b3f0d045a9965c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Furnature/Rooms/LivingRoom/Small Shelves.prefab using Guid(43b4215006178ce41b3f0d045a9965c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a31f9213bea092ddef6792d51f87106') in 0.004170 seconds
-  Import took 0.011704 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 8.990876 seconds.
-  path: Assets/Prefabs/Furnature/Rooms/LivingRoom/Small Shelf.prefab
-  artifactKey: Guid(43b4215006178ce41b3f0d045a9965c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Furnature/Rooms/LivingRoom/Small Shelf.prefab using Guid(43b4215006178ce41b3f0d045a9965c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfa7c8f695d2ad4767b41c07124da3c0') in 0.007762 seconds
-  Import took 0.014649 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 10.239636 seconds.
-  path: Assets/Prefabs/Furnature/Rooms/LivingRoom/Chair.prefab
-  artifactKey: Guid(43b4215006178ce41b3f0d045a9965c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Furnature/Rooms/LivingRoom/Chair.prefab using Guid(43b4215006178ce41b3f0d045a9965c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c3e6f793b5510b41d6b5b12266c3d1a') in 0.008541 seconds
-  Import took 0.015484 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 143.140445 seconds.
-  path: Assets/Prefabs/Furnature/Table/Demo Table.prefab
-  artifactKey: Guid(e6e9753d0a479704cb466c07fa2562b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Furnature/Table/Demo Table.prefab using Guid(e6e9753d0a479704cb466c07fa2562b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d01044e4e986d5a8a66876126468560') in 0.031412 seconds
-  Import took 0.038815 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.019955 seconds.
-  path: Assets/Prefabs/Furnature/Table/Demo Table.prefab
-  artifactKey: Guid(e6e9753d0a479704cb466c07fa2562b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Furnature/Table/Demo Table.prefab using Guid(e6e9753d0a479704cb466c07fa2562b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d01044e4e986d5a8a66876126468560') in 0.025847 seconds
-  Import took 0.032962 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.954497 seconds.
-  path: Assets/Prefabs/Furnature/Table/Demo Table 1.prefab
-  artifactKey: Guid(492a9a5b5f64df14c91bf00e53eaa46a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Furnature/Table/Demo Table 1.prefab using Guid(492a9a5b5f64df14c91bf00e53eaa46a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2459d54fedac48e583ac8bf94ec74927') in 0.028459 seconds
-  Import took 0.035473 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.029135 seconds.
-  path: Assets/Prefabs/Furnature/Table/Demo Table 1.prefab
-  artifactKey: Guid(492a9a5b5f64df14c91bf00e53eaa46a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Furnature/Table/Demo Table 1.prefab using Guid(492a9a5b5f64df14c91bf00e53eaa46a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2459d54fedac48e583ac8bf94ec74927') in 0.023881 seconds
-  Import took 0.031370 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 3.715651 seconds.
-  path: Assets/Prefabs/Furnature/Table/Demo Table Aure.prefab
-  artifactKey: Guid(492a9a5b5f64df14c91bf00e53eaa46a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Furnature/Table/Demo Table Aure.prefab using Guid(492a9a5b5f64df14c91bf00e53eaa46a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a312d96fab643f35f1be0df296ed52c8') in 0.031707 seconds
-  Import took 0.038746 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 291.285374 seconds.
-  path: Assets/Prefabs/Furnature/Rooms/LivingRoom/Chair.prefab
-  artifactKey: Guid(43b4215006178ce41b3f0d045a9965c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Furnature/Rooms/LivingRoom/Chair.prefab using Guid(43b4215006178ce41b3f0d045a9965c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '527fbf15b689112ab9d2b7ab0a64cecc') in 0.033387 seconds
-  Import took 0.041576 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.012684 seconds.
-  path: Assets/Prefabs/Furnature/Rooms/LivingRoom/Chair.prefab
-  artifactKey: Guid(43b4215006178ce41b3f0d045a9965c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Furnature/Rooms/LivingRoom/Chair.prefab using Guid(43b4215006178ce41b3f0d045a9965c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '527fbf15b689112ab9d2b7ab0a64cecc') in 0.028656 seconds
-  Import took 0.036171 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 12.820850 seconds.
-  path: Assets/Prefabs/Furnature/Rooms/LivingRoom/High Chair.prefab
-  artifactKey: Guid(c46c6665500eeb545ac9c18e8b626249) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Furnature/Rooms/LivingRoom/High Chair.prefab using Guid(c46c6665500eeb545ac9c18e8b626249) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a0d944415941a0556c99f34be8cc961') in 0.065475 seconds
-  Import took 0.074229 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.057958 seconds.
-  path: Assets/Prefabs/Furnature/Rooms/LivingRoom/High Chair.prefab
-  artifactKey: Guid(c46c6665500eeb545ac9c18e8b626249) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Furnature/Rooms/LivingRoom/High Chair.prefab using Guid(c46c6665500eeb545ac9c18e8b626249) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a0d944415941a0556c99f34be8cc961') in 0.028065 seconds
-  Import took 0.036101 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 94.533240 seconds.
   path: Assets/Prefabs/Furnature/Rooms/LivingRoom/Reol.prefab
   artifactKey: Guid(6e39639d06d1d3541a347655b0a7dfbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Furnature/Rooms/LivingRoom/Reol.prefab using Guid(6e39639d06d1d3541a347655b0a7dfbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd988d95dd0b4d760d3d948d84e1ac124') in 0.009135 seconds
-  Import took 0.017229 seconds .
+Start importing Assets/Prefabs/Furnature/Rooms/LivingRoom/Reol.prefab using Guid(6e39639d06d1d3541a347655b0a7dfbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+ -> (artifact id: '88423a0abfa910bfe76b95a87f0c3868') in 1.097506 seconds
+  Import took 1.104356 seconds .
 
 ========================================================================
-Received Import Request.
-  Time since last request: 63.808997 seconds.
-  path: Assets/Prefabs/Furnature/Rooms/LivingRoom/Reol.prefab
-  artifactKey: Guid(6e39639d06d1d3541a347655b0a7dfbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Furnature/Rooms/LivingRoom/Reol.prefab using Guid(6e39639d06d1d3541a347655b0a7dfbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4717705a8f09a01c13b420ff4f56fc7f') in 0.025521 seconds
-  Import took 0.033115 seconds .
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002476 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.84 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.963 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.97 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3980 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 197.0 MB.
+System memory in use after: 197.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 4870.
+Total: 5.121100 ms (FindLiveObjects: 0.560000 ms CreateObjectMapping: 0.332000 ms MarkObjects: 4.120700 ms  DeleteObjects: 0.106200 ms)
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
